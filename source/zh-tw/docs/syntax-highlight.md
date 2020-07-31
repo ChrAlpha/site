@@ -158,7 +158,7 @@ When `hljs` is set to `true`, all the HTML output will have `class` prefixed wit
 </code></pre>
 ```
 
-> Tip: When `line_number` is set to `false`, `wrap` is set to false and `hljs` is set to `true`, you can then use `highlight.js` [theme](https://github.com/highlightjs/highlight.js/tree/master/src/styles) directly in your site.
+> Tip: When `line_number` is set to `false`, `wrap` is set to `false` and `hljs` is set to `true`, you can then use `highlight.js` [theme](https://github.com/highlightjs/highlight.js/tree/master/src/styles) directly in your site.
 
 ## PrismJS
 
